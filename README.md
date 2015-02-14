@@ -1,2 +1,2 @@
 # SimpleGame
-helicopter simple game
+Classic Helicopter game with Elite: Dangerous theme
